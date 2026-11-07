@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Model and dataset caches
+.cache/
+cache/
+models/
+data/processed/
+
+# Environment secrets
+.env
+
+# macOS files
+.DS_Store
